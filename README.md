@@ -1,0 +1,1 @@
+__this is a shell basic for the software engneering program__
