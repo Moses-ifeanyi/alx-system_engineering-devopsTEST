@@ -21,3 +21,27 @@ Task8: a script that writes into the file ls_cwd_content the result of the comma
 Task9: a script that duplicates the last line of the file iacta
 
 Task10: a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders. 
+
+Task11:a script that counts the number of directories and sub-directories in the current directory.
+
+Task12:a script that displays the 10 newest files in the current directory.
+
+Task13:a  script that takes a list of words as input and prints only words that appear exactly once.
+
+Task14:a shell script Display lines containing the pattern “root” from the file /etc/passwd
+
+Task15:a shell script that Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+
+Task16:a shell script that Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+Task17:a shell script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+Task18:a shell script that Display all lines of the file /etc/ssh/sshd_config starting with a letter. 
+
+Task19:a shell script that Replace all characters A and c from input to Z and e respectively.
+
+Task20:a script that removes all letters c and C from input.
+
+Task21:a script that reverse its input.
+
+Task22:a script that displays all users and their home directories, sorted by users.
